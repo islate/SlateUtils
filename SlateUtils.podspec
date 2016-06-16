@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/islate/SlateUtils"
-  s.license      = "MIT"
+  s.license      = "Apache 2.0"
   s.author       = { "linyize" => "linyize@gmail.com" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/islate/SlateUtils.git", :branch => "master" }
