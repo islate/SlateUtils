@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/islate/SlateUtils.git", :tag => s.version.to_s }
 
-  s.source_files = '*.{h,m}'
+  s.source_files = 'SlateUtils/*.{h,m}'
 
 end
