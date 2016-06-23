@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 
 
   s.description  = <<-DESC
-       utils of Slate FrameWork.   
+       utils of Slate FrameWork.   json urlencode md5 base64 aes des 
   
                    DESC
 
