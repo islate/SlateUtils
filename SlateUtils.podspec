@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.license      = "Apache 2.0"
   s.author       = { "linyize" => "linyize@gmail.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/islate/SlateUtils.git", :branch => "master" }
+  s.source       = { :git => "https://github.com/islate/SlateUtils.git", :tag => s.version.to_s }
 
   s.source_files = '*.{h,m}'
 
